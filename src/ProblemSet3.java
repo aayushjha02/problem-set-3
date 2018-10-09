@@ -24,14 +24,14 @@ public class ProblemSet3 {
 		Scanner in = new Scanner(System.in);
 
 		ProblemSet3 ps3 = new ProblemSet3();
-		//ps3.dateFashion(6, 3);
-		//ps3.fizzString("boolin");
-		//ps3.squirrelPlay(94, true);
-		//ps3.fizzStringAgain(18);
-		//ps3.makeBricks(3, 2, 10);
-		//ps3.loneSum(3, 3, 3);
-		//ps3.factorialWithFor(3);
-		//ps3.factorialWithWhile(3);
+		ps3.dateFashion(6, 3);
+		ps3.fizzString("boolin");
+		ps3.squirrelPlay(94, true);
+		ps3.fizzStringAgain(18);
+		ps3.makeBricks(3, 2, 10);
+		ps3.loneSum(3, 3, 3);
+		ps3.factorialWithFor(3);
+		ps3.factorialWithWhile(3);
 		ps3.isPrime(1);
 		
 	}
